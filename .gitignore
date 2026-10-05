@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+.streamlit/secrets.toml
+pilot_results.csv
+
+*.env
+.env
+
+.DS_Store
+Thumbs.db
